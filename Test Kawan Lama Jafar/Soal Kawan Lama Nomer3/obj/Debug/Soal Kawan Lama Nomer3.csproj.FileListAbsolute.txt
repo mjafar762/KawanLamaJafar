@@ -1,0 +1,8 @@
+C:\Users\Fenny\source\repos\Test Kawan Lama Jafar\Soal Kawan Lama Nomer3\bin\Debug\Soal Kawan Lama Nomer3.exe.config
+C:\Users\Fenny\source\repos\Test Kawan Lama Jafar\Soal Kawan Lama Nomer3\bin\Debug\Soal Kawan Lama Nomer3.exe
+C:\Users\Fenny\source\repos\Test Kawan Lama Jafar\Soal Kawan Lama Nomer3\bin\Debug\Soal Kawan Lama Nomer3.pdb
+C:\Users\Fenny\source\repos\Test Kawan Lama Jafar\Soal Kawan Lama Nomer3\obj\Debug\Soal Kawan Lama Nomer3.csproj.AssemblyReference.cache
+C:\Users\Fenny\source\repos\Test Kawan Lama Jafar\Soal Kawan Lama Nomer3\obj\Debug\Soal Kawan Lama Nomer3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fenny\source\repos\Test Kawan Lama Jafar\Soal Kawan Lama Nomer3\obj\Debug\Soal Kawan Lama Nomer3.csproj.CoreCompileInputs.cache
+C:\Users\Fenny\source\repos\Test Kawan Lama Jafar\Soal Kawan Lama Nomer3\obj\Debug\Soal Kawan Lama Nomer3.exe
+C:\Users\Fenny\source\repos\Test Kawan Lama Jafar\Soal Kawan Lama Nomer3\obj\Debug\Soal Kawan Lama Nomer3.pdb
