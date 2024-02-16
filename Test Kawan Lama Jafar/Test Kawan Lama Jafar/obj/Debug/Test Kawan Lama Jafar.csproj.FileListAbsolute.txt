@@ -1,8 +1,0 @@
-C:\Users\Fenny\source\repos\Test Kawan Lama Jafar\Test Kawan Lama Jafar\bin\Debug\Test Kawan Lama Jafar.exe.config
-C:\Users\Fenny\source\repos\Test Kawan Lama Jafar\Test Kawan Lama Jafar\bin\Debug\Test Kawan Lama Jafar.exe
-C:\Users\Fenny\source\repos\Test Kawan Lama Jafar\Test Kawan Lama Jafar\bin\Debug\Test Kawan Lama Jafar.pdb
-C:\Users\Fenny\source\repos\Test Kawan Lama Jafar\Test Kawan Lama Jafar\obj\Debug\Test Kawan Lama Jafar.csproj.AssemblyReference.cache
-C:\Users\Fenny\source\repos\Test Kawan Lama Jafar\Test Kawan Lama Jafar\obj\Debug\Test Kawan Lama Jafar.csproj.SuggestedBindingRedirects.cache
-C:\Users\Fenny\source\repos\Test Kawan Lama Jafar\Test Kawan Lama Jafar\obj\Debug\Test Kawan Lama Jafar.csproj.CoreCompileInputs.cache
-C:\Users\Fenny\source\repos\Test Kawan Lama Jafar\Test Kawan Lama Jafar\obj\Debug\Test Kawan Lama Jafar.exe
-C:\Users\Fenny\source\repos\Test Kawan Lama Jafar\Test Kawan Lama Jafar\obj\Debug\Test Kawan Lama Jafar.pdb
